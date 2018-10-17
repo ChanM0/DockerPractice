@@ -14,4 +14,7 @@
         
         CMD ["nmp","start"]
     ```
-    
+- ran command 
+  - ```docker build .``` 
+  - we should tag the build with 
+    - ```docker build -t username/projectname:version.``` 
